@@ -9,17 +9,13 @@
 
 # 矿工交流 TG电报群：https://t.me/MinerProxy3
 
-<div align="center">
-<img src="" width="500" height="500" />
-</div>
-
 # Liunx-一键安装脚本
 好处：适合又想要Linux稳定性的，又不懂Linux的小白的学习者<br />
 功能：包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定<br />
 要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 使用 root 用户输入下面命令安装或卸载<br />
 ```bash
-bash <(curl -s -L https://git.io/Jy13U)
+bash <(curl -s -L https://)
 ```
 ### 输入命令回车之后一直卡住不动，换这种办法
 ubuntu/debian 系统安装
